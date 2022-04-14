@@ -1,4 +1,4 @@
-- 👋 Hi, together! (pretending used to speaking German)
+# 👋 Hi!
 - 👀 I’m interested in autonomous driving, reinforcement learning and data-centric AI!
 - 🌱 I’m currently working as fortiss GmbH, in Munich Germany.
 - 💞️ I’m looking to collaborate on scenario generation for RL (planning of autonomous systems).
